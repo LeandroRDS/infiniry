@@ -1,0 +1,4 @@
+31/08/2024 editar o botão de compar
+    botao parcialmete criado, a função de clicar e levar para o produto em outro site já foi implementada (feito)
+    colocar o projeto do server versionado no github (em execução).
+    implementada os bontões em to das as paginas (1º)
